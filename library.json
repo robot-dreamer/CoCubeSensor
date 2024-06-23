@@ -17,5 +17,5 @@
     ],
     "frameworks": "arduino",
     "platforms": "*",
-    "headers": "include/MySensorLibrary.h"
+    "headers": "include/CoCubeSensor.h"
 }
