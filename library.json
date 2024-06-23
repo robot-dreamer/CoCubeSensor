@@ -1,0 +1,21 @@
+{
+    "name": "MySensorLibrary",
+    "version": "1.0.0",
+    "description": "A library for MySensor.",
+    "keywords": "sensor, hardware, IoT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/MySensorLibrary.git"
+    },
+    "authors": [
+        {
+            "name": "Liang Shuai",
+            "email": "sliang23@m.fudan.edu.cn",
+            "url": "none",
+            "maintainer": true
+        }
+    ],
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "include/MySensorLibrary.h"
+}
