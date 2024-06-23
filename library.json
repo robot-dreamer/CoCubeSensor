@@ -1,17 +1,17 @@
 {
-    "name": "MySensorLibrary",
+    "name": "CoCubeSensor",
     "version": "1.0.0",
-    "description": "A library for MySensor.",
+    "description": "CoCube Sensor Library for MicroBlocks.",
     "keywords": "sensor, hardware, IoT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yourusername/MySensorLibrary.git"
+        "url": "https://github.com/robot-dreamer/smallvm.git"
     },
     "authors": [
         {
             "name": "Liang Shuai",
             "email": "sliang23@m.fudan.edu.cn",
-            "url": "none",
+            "url": "https://github.com/robot-dreamer/smallvm.git",
             "maintainer": true
         }
     ],
